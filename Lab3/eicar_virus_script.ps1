@@ -1,3 +1,10 @@
+# Not a #!/bin/bash script - Seth Haas
+# Writing to you again to show that I in fact understand what I'm doing and enjoying this class.
+# 4/15 submissions is shocking.
+# Writing this on 3/11/2025 7:09 PM - probably won't finish it today but I might.
+# I did it again
+# SH - 03/2025
+
 # Define the path for the log file.
 $LogFilePath = "C:\EICAR_Test_logs\virus_emulation.log"
 
